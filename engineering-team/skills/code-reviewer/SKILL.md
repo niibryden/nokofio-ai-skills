@@ -63,8 +63,8 @@ Analyzes source code for structural issues, code smells, and SOLID violations.
 # Analyze a directory
 python scripts/code_quality_checker.py /path/to/code
 
-# Analyze specific language
-python scripts/code_quality_checker.py . --language csharp
+# Analyze specific language (valid values: python, typescript, javascript, go, swift, kotlin, csharp)
+python scripts/code_quality_checker.py . --language python
 
 # JSON output
 python scripts/code_quality_checker.py /path/to/code --json
