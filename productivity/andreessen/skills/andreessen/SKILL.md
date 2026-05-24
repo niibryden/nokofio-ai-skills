@@ -139,7 +139,11 @@ python scripts/anti_todo_card.py --summary
 
 ## Assets
 
+- [`assets/forcing_question_worksheet.md`](assets/forcing_question_worksheet.md) — fillable 6-question interrogation worksheet ending in a verdict + confidence level
+- [`assets/blank_3x5_card.md`](assets/blank_3x5_card.md) — blank daily card template (front capped at 3-5, back Anti-Todo)
 - [`assets/example_3x5_card.md`](assets/example_3x5_card.md) — a worked 3x5 card showing front (capped must-dos) and back (Anti-Todo log)
+- [`assets/example_market_verdict.md`](assets/example_market_verdict.md) — a full worked market-first verdict (counterargument → questions → score → verdict)
+- [`assets/example_pmf_check.md`](assets/example_pmf_check.md) — a worked before/after product/market fit check
 
 ## Hard Rules
 
