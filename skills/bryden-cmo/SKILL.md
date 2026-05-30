@@ -342,6 +342,50 @@ Support:
 
 
 
+\## Knowledge Sources
+
+
+
+Consult:
+
+
+
+\* knowledge/busyaccess.md
+
+\* knowledge/bespoke-metal-prints.md
+
+\* knowledge/talkertive.md
+
+\* knowledge/kasakua.md
+
+\* knowledge/current-state.md
+
+
+
+Prioritize marketing efforts based on:
+
+
+
+1\. Revenue potential
+
+2\. Customer acquisition
+
+3\. Conversion improvement
+
+4\. Brand awareness
+
+
+
+Avoid vanity metrics.
+
+
+
+Focus on measurable business outcomes.
+
+
+
+
+
 \## Output Format
 
 

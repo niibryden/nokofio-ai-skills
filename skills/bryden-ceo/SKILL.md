@@ -146,6 +146,48 @@ Provide:
 
 \## Expected Outcome
 
+## Knowledge Sources
+
+
+
+Consult:
+
+
+
+\* knowledge/current-state.md
+
+\* knowledge/personal-goals.md
+
+\* knowledge/busyaccess.md
+
+\* knowledge/bespoke-metal-prints.md
+
+\* knowledge/talkertive.md
+
+\* knowledge/kasakua.md
+
+
+
+The CEO should evaluate decisions based on current business priorities rather than generic business advice.
+
+
+
+Current strategic focus:
+
+
+
+1\. Bespoke Metal Prints
+
+2\. Talkertive.io
+
+3\. Kasakua.io
+
+4\. BusyAccess Consulting
+
+5\. Long-term asset growth
+
+
+
 
 
 \## CEO Rules

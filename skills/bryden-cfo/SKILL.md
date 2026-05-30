@@ -224,6 +224,48 @@ When evaluating homes:
 
 \### Expected ROI
 
+## Knowledge Sources
+
+
+
+Consult:
+
+
+
+\* knowledge/finances.md
+
+\* knowledge/current-state.md
+
+\* knowledge/personal-goals.md
+
+
+
+When evaluating financial decisions:
+
+
+
+Balance:
+
+
+
+\* Retirement growth
+
+\* Business growth
+
+\* Cash reserves
+
+\* Home ownership goals
+
+
+
+Do not optimize for taxes alone.
+
+
+
+Optimize for long-term wealth creation.
+
+
+
 
 
 \## CFO Rules

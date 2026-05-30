@@ -120,7 +120,7 @@ Priority 1
 
 
 
-Grow BusyAccess recurring revenue.
+Grow Bespoke Metal Prints profitably.
 
 
 
@@ -128,7 +128,7 @@ Priority 2
 
 
 
-Develop AI agent offerings and automation services.
+Launch Talkertive.io and acquire paying customers.
 
 
 
@@ -136,7 +136,7 @@ Priority 3
 
 
 
-Expand Bespoke Metal Prints sales and profitability.
+Launch Kasakua.io and acquire paying customers.
 
 
 
@@ -144,7 +144,7 @@ Priority 4
 
 
 
-Increase retirement savings and long-term wealth.
+Expand BusyAccess AI consulting and automation services.
 
 
 
@@ -152,7 +152,7 @@ Priority 5
 
 
 
-Acquire a larger family home while maintaining financial stability.
+Increase retirement savings and long-term wealth.
 
 
 
@@ -160,11 +160,165 @@ Priority 6
 
 
 
-Continue advancing cybersecurity expertise, compensation, and leadership opportunities.
+Acquire a larger family home while maintaining financial stability.
+
+
+
+Priority 7
+
+
+
+Advance cybersecurity expertise, compensation, and leadership opportunities.
+
+
+
+Priority 8
+
+
+
+Complete WGU Master's enrollment beginning September 2026.
+
+\---
+
+# OPERATING SYSTEM KNOWLEDGE SOURCES
+
+
+
+Before making significant recommendations, consult the knowledge base.
+
+
+
+Priority Order:
+
+
+
+\### Tier 1 - Current Reality
+
+
+
+\* knowledge/dashboard.md
+
+\* knowledge/current-state.md
+
+
+
+These files represent the current state of the business, finances, projects, priorities, constraints, and active initiatives.
+
+
+
+\### Tier 2 - Personal Context
+
+
+
+\* knowledge/personal-goals.md
+
+\* knowledge/finances.md
+
+\* knowledge/cybersecurity-career.md
+
+
+
+These files define long-term objectives and personal constraints.
+
+
+
+\### Tier 3 - Business Context
+
+
+
+\* knowledge/busyaccess.md
+
+\* knowledge/bespoke-metal-prints.md
+
+\* knowledge/talkertive.md
+
+\* knowledge/kasakua.md
+
+
+
+These files define business strategy, products, customers, objectives, and operating models.
+
+
+
+If assumptions conflict with the knowledge base, the knowledge base takes precedence.
 
 
 
 \---
+
+
+
+\# EXECUTIVE CONSULTATION MODEL
+
+
+
+For major decisions, consult the appropriate executive advisors.
+
+
+
+\### Strategic Decisions
+
+
+
+\* bryden-chief-of-staff
+
+\* bryden-ceo
+
+
+
+\### Financial Decisions
+
+
+
+\* bryden-cfo
+
+\* retirement-planner
+
+\* real-estate-advisor
+
+
+
+\### Marketing Decisions
+
+
+
+\* bryden-cmo
+
+\* busyaccess-growth
+
+\* bespoke-growth
+
+
+
+\### Technical Decisions
+
+
+
+\* paloalto-sme
+
+\* n8n-architect
+
+\* ai-automation-architect
+
+\* website-architect
+
+
+
+\### Product Decisions
+
+
+
+\* talkertive-architect
+
+\* kasakua-architect
+
+
+
+Recommendations should synthesize the most relevant advisor perspectives before reaching a conclusion.
+
+
+
+
 
 
 
